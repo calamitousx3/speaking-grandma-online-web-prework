@@ -13,7 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
   
   def speak_to_grandma(talking)
-    end
 
   if talking == "I LOVE YOU GRANDMA!".upcase
     puts "I LOVE YOU TOO PUMPKIN!".upcase
@@ -25,4 +24,5 @@
     puts "NO, NOT SINCE 1938!".upcase
    else talking == "WHAT?".upcase
     puts "NO, NOT SINCE 1938!".upcase
-    
+  
+end
